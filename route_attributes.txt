@@ -1,0 +1,5 @@
+route_id,category,subcategory,running_way
+Gray,5,501,5
+Gray_Weekend,5,501,5
+Red,5,501,5
+Red_Weekend,5,501,5

@@ -1,0 +1,5 @@
+route_id,direction_id,direction
+Gray,0,Loop
+Gray_Weekend,0,Loop
+Red,0,Loop
+Red_Weekend,0,Loop
