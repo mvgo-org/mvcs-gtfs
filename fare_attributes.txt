@@ -1,2 +1,2 @@
 agency_id,fare_id,price,currency_type,payment_method,transfers,transfer_duration
-,1,0.00,USD,0,,
+951aa011-643c-46f0-9cbd-a33320cbd799,1,0.00,USD,0,,
