@@ -1,5 +1,5 @@
 route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order,continuous_pickup,continuous_drop_off
-Gray,,,Gray,,3,,8C8C88,000000,,1,1
-Gray_Weekend,,,Gray Weekend,,3,,8C8C88,000000,,1,1
-Red,,,Red,,3,,FF2B0A,000000,,1,1
-Red_Weekend,,,Red Weekend,,3,,FF2B0A,000000,,1,1
+Gray,MC,,Gray,,3,,8C8C88,000000,,1,1
+Gray_Weekend,MC,,Gray Weekend,,3,,8C8C88,000000,,1,1
+Red,MC,,Red,,3,,FF2B0A,000000,,1,1
+Red_Weekend,MC,,Red Weekend,,3,,FF2B0A,000000,,1,1
