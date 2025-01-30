@@ -1,5 +1,5 @@
 timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,thursday,friday,saturday,sunday,include_exceptions,timetable_label,service_notes,orientation,timetable_page_id,timetable_sequence,direction_name,show_trip_continuation
-0,Gray,0,20240921,20250119,1,1,1,1,1,0,0,0,Gray Weekday,,vertical,gray,0,,
-1,Gray_Weekend,0,20240921,20250119,0,0,0,0,0,1,1,0,Gray Weekend,,vertical,gray,1,,
-2,Red,0,20240921,20250119,1,1,1,1,1,0,0,0,Red Weekday,,vertical,red,0,,
-3,Red_Weekend,0,20240921,20250119,0,0,0,0,0,1,1,0,Red Weekend,,vertical,red,1,,
+0,Gray,0,20250201,20260201,1,1,1,1,1,0,0,0,Gray Weekday,,vertical,gray,0,,
+1,Gray_Weekend,0,20250201,20260201,0,0,0,0,0,1,1,0,Gray Weekend,,vertical,gray,1,,
+2,Red,0,20250201,20260201,1,1,1,1,1,0,0,0,Red Weekday,,vertical,red,0,,
+3,Red_Weekend,0,20250201,20260201,0,0,0,0,0,1,1,0,Red Weekend,,vertical,red,1,,
