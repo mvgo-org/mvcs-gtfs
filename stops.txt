@@ -2,7 +2,7 @@ stop_id,stop_code,stop_name,tts_stop_name,stop_desc,stop_lat,stop_lon,zone_id,st
 c29f92d0-214e-4702-ba60-f33ace00cbe4,7608,Castro/High School Way,Castro Hi Skool Way,Southbound,37.3870533563023,-122.083289996677,,,0,,,1,,
 7658,7658,Castro/El Camino Real (SB),Castro El Camino Ree-yal Southbound,Southbound,37.3851791592262,-122.084433423891,,,0,,,1,,
 7657,7657,Shoreline/Pear,,Weekend service only,37.4151345362921,-122.078257326389,,,0,,,1,,
-7656,7656,Whisman/Middlefield (NB),Whisman Middle-field Northbound,Northbound,37.3966586287188,-122.059666439166,,,0,,,1,,
+7656,7656,Whisman/Middlefield (NB),Whisman Middle-field Northbound,Northbound,37.3966698642579,-122.059696095817,,,0,,,1,,
 7655,7655,Whisman/Dana (NB),Whisman Dana Northbound,Northbound,37.3865667998563,-122.064175348804,,,0,,,1,,
 7654,7654,Whisman/Dana (SB),Whisman Dana Southbound,,37.3866686008579,-122.06448609903,,,0,,,1,,
 7653,7653,Whisman Station (NB),Whisman Station Northbound,Northbound,37.3918748113096,-122.061720692395,,,0,,,1,,
