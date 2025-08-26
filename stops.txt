@@ -1,5 +1,4 @@
 stop_id,stop_code,stop_name,tts_stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding,level_id,platform_code
-c29f92d0-214e-4702-ba60-f33ace00cbe4,7608,Castro/High School Way,Castro Hi Skool Way,Southbound,37.3870533563023,-122.083289996677,,,0,,,1,,
 7658,7658,Castro/El Camino Real (SB),Castro El Camino Ree-yal Southbound,Southbound,37.3851791592262,-122.084433423891,,,0,,,1,,
 7657,7657,Shoreline/Pear,,Weekend service only,37.4151345362921,-122.078257326389,,,0,,,1,,
 7656,7656,Whisman/Middlefield (NB),Whisman Middle-field Northbound,Northbound,37.3966698642579,-122.059696095817,,,0,,,1,,
@@ -50,6 +49,7 @@ c29f92d0-214e-4702-ba60-f33ace00cbe4,7608,Castro/High School Way,Castro Hi Skool
 7611,7611,Community Center (NB),Community Center Northbound,Northbound,37.4015542895596,-122.098288397675,,,0,,,1,,
 7610,7610,Civic Center (SB),Civic Center Southbound,Southbound,37.3896806813373,-122.081678499273,,,0,,,1,,
 7609,7609,California/Ortega (WB),California Ortega Westbound,Westbound,37.4015902613489,-122.104375089754,,,0,,,1,,
+7608,7608,Castro/High School Way,Castro Hi Skool Way,Southbound,37.3870533563023,-122.083289996677,,,0,,,1,,
 7607,7607,Castro/El Camino Real (NB),Castro El Camino Ree-yal Northbound,Northbound,37.3851029258915,-122.084181748691,,,0,,,1,,
 7606,7606,California/Rengstorff (EB),California Rengstorff Eastbound,Eastbound,37.3987728461753,-122.099668128224,,,0,,,1,,
 7605,7605,California/Rengstorff (WB),California Rengstorff Westbound,Westbound,37.3992245352568,-122.100332904614,,,0,,,1,,
